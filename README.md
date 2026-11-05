@@ -1,19 +1,21 @@
-<!-- 1. АНИМИРОВАННЫЙ БАННЕР В ГРАФИТОВОМ СТИЛЕ -->
+<!-- 1. ТЕКСТОВЫЙ ТЕРМИНАЛЬНЫЙ БАННЕР -->
 <p align="center">
-  <img src="https://demolab.com;[loading_system_modules...]+92%25;access_granted...;connection_established" alt="Matrix Terminal" />
-</p>
-
-<!-- Текстовый разделитель -->
-<p align="center">
-  <code>SYSTEM STATUS: ACTIVE // DEPLOYMENT: SUCCESSFUL</code>
+<code>================================================================</code><br>
+<code>[ SYSTEM_INIT ] :: LOADING DATA MODULES.................. [OK]  </code><br>
+<code>[ AUTHORIZED ] :: IDENT_CODE: dasdiener                         </code><br>
+<code>[ TERMINAL   ] :: CORE STATUS: ACTIVE // DEPLOYMENT: CONFIRMED  </code><br>
+<code>================================================================</code>
 </p>
 
 <br>
 
-<!-- 2. ДИНАМИЧЕСКАЯ СТАТИСТИКА (ОБНОВЛЯЕТСЯ САМА) -->
+<!-- 2. ДИНАМИЧЕСКИЕ ТЕКСТОВЫЕ КАРТОЧКИ (ОТ СЕРВИСА ANURAGHAZRA) -->
+<!-- Если прокси гитхаба тупит, обернем их в стандартный Markdown-синтаксис без HTML-тегов -->
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="165" />
-  <img src="https://vercel.app" alt="Top Languages" height="165" />
+  <img src="https://vercel.app" alt="Stats" />
+</p>
+<p align="center">
+  <img src="https://vercel.app" alt="Langs" />
 </p>
 
 <br>
@@ -54,9 +56,7 @@
 
 <br>
 
-<!-- 4. МОНОХРОМНЫЙ СЧЁТЧИК ПОСЕТИТЕЛЕЙ -->
+<!-- 4. СТАБИЛЬНЫЙ СЧЁТЧИК НА БАЗЕ SHIELDS.IO (ЭТОТ НЕ ПАДАЕТ) -->
 <p align="center">
-  <code>[ SYSTEM ACCESS LOGS:</code> 
-  <img src="https://komarev.com" alt="User Views" /> 
-  <code> ]</code>
+  <img src="https://shields.io" alt="Status" />
 </p>
