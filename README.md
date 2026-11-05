@@ -1,4 +1,3 @@
-<!-- 1. ТЕКСТОВЫЙ ТЕРМИНАЛЬНЫЙ БАННЕР -->
 <p align="center">
 <code>================================================================</code><br>
 <code>[ SYSTEM_INIT ] :: LOADING DATA MODULES.................. [OK]  </code><br>
@@ -9,12 +8,10 @@
 
 <br>
 
-<!-- 2. СТРОГИЕ ТЕКСТОВЫЕ ДИСПЛЕИ (ВМЕСТО СЛОМАННЫХ КАРТИНОК) -->
-<h3 align="center">📈 SYSTEM MONITOR</h3>
+<h3 align="center">SYSTEM MONITOR</h3>
 
 ```text
 ┌── Мониторинг активности ───────────────────────────────────────┐
-│ Стек и статистика будут считываться системой автоматически.     │
 │ Режим работы: Минималистичный текстовый интерфейс (ASCII Core) │
 │ Тема оформления: Графит / Монохром                             │
 └────────────────────────────────────────────────────────────────┘
@@ -22,11 +19,10 @@
 
 <br>
 
-<!-- 3. ИНТЕРАКТИВНЫЕ РАСКРЫВАЮЩИЕСЯ ЛОГИ -->
-<h3 align="center">📁 SYSTEM FILE EXPLORER</h3>
+<h3 align="center">SYSTEM FILE EXPLORER</h3>
 
 <details>
-<summary><b>▶ [sys.read] --about-me</b></summary>
+<summary><b>[sys.read] --about-me</b></summary>
 <br>
 <blockquote>
   Занимаюсь разработкой и проектированием систем. 
@@ -35,7 +31,7 @@
 </details>
 
 <details>
-<summary><b>▶ [sys.read] --current-stack</b></summary>
+<summary><b>[sys.read] --current-stack</b></summary>
 <br>
 
 ```text
@@ -47,7 +43,7 @@
 </details>
 
 <details>
-<summary><b>▶ [sys.read] --contact-channels</b></summary>
+<summary><b>[sys.read] --contact-channels</b></summary>
 <br>
 
 ```text
@@ -60,7 +56,6 @@
 
 <br>
 
-<!-- 4. СТАТИЧНЫЙ ТЕКСТОВЫЙ СЧЁТЧИК -->
 <p align="center">
   <code>[ ACCESS LEVEL: GRANTED // LOGS: SECURE ]</code>
 </p>
