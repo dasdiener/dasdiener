@@ -9,13 +9,10 @@
 
 <br>
 
-<!-- 2. ДИНАМИЧЕСКИЕ ТЕКСТОВЫЕ КАРТОЧКИ (ОТ СЕРВИСА ANURAGHAZRA) -->
-<!-- Если прокси гитхаба тупит, обернем их в стандартный Markdown-синтаксис без HTML-тегов -->
+<!-- 2. ДИНАМИЧЕСКИЕ КАРТОЧКИ СТАТИСТИКИ (ГРАФИТ) -->
 <p align="center">
-  <img src="https://vercel.app" alt="Stats" />
-</p>
-<p align="center">
-  <img src="https://vercel.app" alt="Langs" />
+  <img src="https://vercel.app" alt="Stats" height="165" />
+  <img src="https://vercel.app" alt="Langs" height="165" />
 </p>
 
 <br>
@@ -56,7 +53,7 @@
 
 <br>
 
-<!-- 4. СТАБИЛЬНЫЙ СЧЁТЧИК НА БАЗЕ SHIELDS.IO (ЭТОТ НЕ ПАДАЕТ) -->
+<!-- 4. СТАБИЛЬНЫЙ СЧЁТЧИК ПРОСМОТРОВ -->
 <p align="center">
   <img src="https://shields.io" alt="Status" />
 </p>
