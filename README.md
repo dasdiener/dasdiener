@@ -1,6 +1,6 @@
 <!-- 1. АНИМИРОВАННЫЙ БАННЕР В ГРАФИТОВОМ СТИЛЕ -->
 <p align="center">
-  <img src="https://demolab.com" alt="Matrix Terminal" />
+  <img src="https://demolab.com;[loading_system_modules...]+92%25;access_granted...;connection_established" alt="Matrix Terminal" />
 </p>
 
 <!-- Текстовый разделитель -->
@@ -11,7 +11,6 @@
 <br>
 
 <!-- 2. ДИНАМИЧЕСКАЯ СТАТИСТИКА (ОБНОВЛЯЕТСЯ САМА) -->
-<!-- ВАЖНО: Замените ВАШ_НИКНЕЙМ в двух ссылках ниже на ваш реальный логин GitHub -->
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" height="165" />
   <img src="https://vercel.app" alt="Top Languages" height="165" />
