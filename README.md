@@ -1,1 +1,1 @@
-[![Счётчик](https://komarev.com)]
+
